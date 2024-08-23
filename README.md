@@ -50,3 +50,13 @@ The system is equipped with several integrated components to ensure security and
 - **Servo Motor**
 - **GSM Module**
 - **Buzzer**
+
+## Authors
+
+Sreeshanth
+
+
+## License
+
+This project is licensed under the MIT License.
+It is free to use.
